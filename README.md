@@ -1,11 +1,22 @@
-# delta-demo
+# 🐙 Delta Demo — Git & GitHub Practice
 
-This is demo repository for Git &amp; GitHub
+A learning and practice repository created to demonstrate Git version control concepts, repository initialization, branching strategies, and GitHub remote workflows.
 
-# Teacher
+---
 
-Shradha Khapra
+## 🛠️ Included Content
 
-# Student
+* `index.html` — Basic HTML structure for verifying commits and version diffs.
+* `style.css` — Basic CSS styles for testing branch merging.
 
-Delta Student
+---
+
+## 🚀 Usage
+
+Use this repository to practice standard Git commands:
+```bash
+git status
+git add .
+git commit -m "Practice commit"
+git push origin main
+```
